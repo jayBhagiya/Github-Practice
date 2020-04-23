@@ -13,3 +13,7 @@ Making Bluetooth car
 Makimg an Robot
 
 --> Robot
+
+Makin a mini Car
+
+--> Mini car
