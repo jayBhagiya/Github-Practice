@@ -5,3 +5,7 @@ Making an IoT box.
 Making an IoT Car
 
 --> This can can br controlled from antwhere.
+
+Making Bluetooth car
+
+--> Car that can be controlled vis blutooth of Android mobile.
