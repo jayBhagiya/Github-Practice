@@ -1,5 +1,5 @@
 # Github-Practice
-## Second Haeding
+## Second Heaing
 ### Third Heading
 
 > This is me
