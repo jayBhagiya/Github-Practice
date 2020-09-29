@@ -14,7 +14,7 @@ Some basic git Commands are :
  git commit -m "<message>"
  ```
  
- This is my [Youtube Channel](https://www.youtube.com)
+ This is my [Github Page](https://www.github.com)
  
  1. My list
     - my second list
